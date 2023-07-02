@@ -1,0 +1,34 @@
+package ArrayPractice;
+
+import java.util.Scanner;
+
+
+public void Menu_Print()
+{
+	System.out.println("1. 실습문제 1번");
+	
+}
+
+
+public class Application {
+
+
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("실습문제 번호를 선택해주세요.");
+		
+		Menu_Print();
+		
+		
+		switch(exer_num)
+		{
+		
+		}
+		
+		
+	}
+
+}

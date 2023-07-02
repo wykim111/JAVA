@@ -1,0 +1,20 @@
+package ArrayPractice;
+
+public class practice4 {
+
+	String[] str_arr = new String[5];
+	
+	public practice4()
+	{
+		str_arr[0] = "»ç°ú";
+		str_arr[1] = "±Ö";
+		str_arr[2] = "Æ÷µµ";
+		str_arr[3] = "º¹¼þ¾Æ";
+		str_arr[4] = "Âü¿Ü";
+	}
+	
+	void print_practice4()
+	{
+		System.out.println(str_arr[4] + " ");
+	}
+}

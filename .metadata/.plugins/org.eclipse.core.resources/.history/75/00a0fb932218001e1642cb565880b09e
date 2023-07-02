@@ -1,0 +1,14 @@
+package ArrayPractice;
+
+public class practice1 {
+	private int[] n_arr = new int[10];
+	private int arr_idx = 0;
+	
+	for(int data = 1; data <11; data++)
+	{
+		n_arr[n_arr_idx] = data;
+		
+		++n_arr_idx;
+		
+	}
+}

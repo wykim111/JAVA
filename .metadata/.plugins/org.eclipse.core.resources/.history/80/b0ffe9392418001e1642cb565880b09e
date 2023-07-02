@@ -1,0 +1,11 @@
+package ArrayPractice;
+
+
+public class practice1 {
+
+	int[] intArr = new int[10];
+	int intArr_idx = 0;
+	
+	
+
+}
